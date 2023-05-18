@@ -9,3 +9,4 @@ You can utilize it for your custom panoramas. Simply drag and drop the image int
 ![Load this image to ComfyUI window for full node setup](ComfyUI_00366_.png)
 ![Full node setup preview](ComfyUI_Conditioning_by_ATDIGIT-FHD.png)
 
+[Beyond Boundaries: Creating Stunning Panoramas with Stable Diffusion](https://www.youtube.com/watch?v=ваш_идентификатор_видео](https://youtu.be/c54HtMDZ_X4)
