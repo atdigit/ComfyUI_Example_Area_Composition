@@ -1,6 +1,6 @@
 # ComfyUI_Example_Area_Composition
 
-Example below is accompanied by a detailed explanatory illustration in my YouTube video: [http://bit.ly/ytatdigit](http://bit.ly/ytatdigit).
+Example below is accompanied by a detailed explanatory illustration in my YouTube video: [https://youtu.be/c54HtMDZ_X4](https://youtu.be/c54HtMDZ_X4).
 
 This ComfyUI node setup demonstrates how the Stable Diffusion conditioning mechanism functions. It stitches together an AI-generated horizontal panorama of a landscape depicting different seasons. The example is based on the original modular interface sample found in `ComfyUI_examples -> Area Composition Examples`: [https://comfyanonymous.github.io/ComfyUI_examples/area_composition/](https://comfyanonymous.github.io/ComfyUI_examples/area_composition/).
 
