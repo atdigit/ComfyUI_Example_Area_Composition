@@ -11,7 +11,7 @@ You can utilize it for your custom panoramas. Simply drag and drop the image int
 ↑ An example of an AI-generated 1920 by 1088 image and its corresponding modular diagram.
 
 [![YouTube tutorial thumbnail](ComfyUI_Conditioning_by_ATDIGIT_FHD_YouTube_tutorial_thumbnail.png)](https://youtu.be/c54HtMDZ_X4)
-[Beyond Boundaries: Creating Stunning Panoramas with Stable Diffusion](https://youtu.be/c54HtMDZ_X4)
+[Pushing The Boundaries: Creating Stunning Panoramas with Stable Diffusion](https://youtu.be/c54HtMDZ_X4)
 
 ![Load this image to ComfyUI window for full node setup](ComfyUI_00439_.png)
 
