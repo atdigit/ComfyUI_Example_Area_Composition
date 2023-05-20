@@ -4,7 +4,7 @@ Examples below are accompanied by a tutorial in my YouTube video: [https://youtu
 
 This ComfyUI node setup demonstrates how the Stable Diffusion conditioning mechanism functions. It stitches together an AI-generated horizontal panorama of a landscape depicting different seasons. The example is based on the original modular interface sample found in `ComfyUI_examples -> Area Composition Examples`: [https://comfyanonymous.github.io/ComfyUI_examples/area_composition/](https://comfyanonymous.github.io/ComfyUI_examples/area_composition/).
 
-You can utilize it for your custom panoramas. Simply drag and drop the image into your ComfyUI interface window to load the nodes, modify some prompts, press "Queue Prompt," and wait for the AI generation to complete.
+You can utilize it for your custom panoramas. Simply drag and drop the image into your ComfyUI interface window to load the nodes, modify some prompts, press "Queue Prompt," and wait for the AI generation to complete. Stable Diffusion model used in this demonstration is [Lyriel](https://civitai.com/models/22922/lyriel?modelVersionId=72396).
 
 ![Load this image to ComfyUI window for full node setup](ComfyUI_00366_.png)
 ![Full node setup preview](ComfyUI_Conditioning_by_ATDIGIT-FHD.png)
