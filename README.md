@@ -6,6 +6,8 @@ This ComfyUI node setup demonstrates how the Stable Diffusion conditioning mecha
 
 You can utilize it for your custom panoramas. Simply drag and drop the image into your [ComfyUI interface window](https://github.com/comfyanonymous/ComfyUI) to load the nodes, modify some prompts, press "Queue Prompt," and wait for the AI generation to complete. Stable Diffusion model used in this demonstration is [Lyriel](https://civitai.com/models/22922/lyriel?modelVersionId=72396).
 
+Video tutorial on how to use ComfyUI, a powerful and modular Stable Diffusion GUI and backend, is [here](https://youtu.be/Ij8k6mBgL3o).
+
 ![Load this image to ComfyUI window for full node setup](ComfyUI_00366_.png)
 ![Full node setup preview](ComfyUI_Conditioning_by_ATDIGIT-FHD.png)
 ↑ An example of an AI-generated 1920 by 1088 image and its corresponding modular diagram.
