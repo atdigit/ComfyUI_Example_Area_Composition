@@ -10,6 +10,10 @@ You can utilize it for your custom panoramas. Simply drag and drop the image int
 ![Full node setup preview](ComfyUI_Conditioning_by_ATDIGIT-FHD.png)
 ↑ An example of an AI-generated 1920 by 1088 image and its corresponding modular diagram.
 
+![Load this image to ComfyUI window for full node setup](ComfyUI_00282_1.png)
+![Load this image to ComfyUI window for full node setup](ComfyUI_00286_1.png)
+↑ ExampleS of image-to-image upscaling used: first pass - 1280 by 704 pixels, second pass - 1920 by 1088 pixels.
+
 [![YouTube tutorial thumbnail](ComfyUI_Conditioning_by_ATDIGIT_FHD_YouTube_tutorial_thumbnail.png)](https://youtu.be/c54HtMDZ_X4)
 [↑ Video tutorial 📺 Pushing The Boundaries: Creating Stunning Panoramas with Stable Diffusion](https://youtu.be/c54HtMDZ_X4)
 
